@@ -8,6 +8,7 @@
   </engines>
   <name>Preferences Access Plugin</name>
   <description>Application Preferences plugin for Phonegap</description>
+  <license>MIT</license>
 
   <platform name="android">
  	<js-module src="src/android/applicationPreferences.js" name="applicationPreferences">
